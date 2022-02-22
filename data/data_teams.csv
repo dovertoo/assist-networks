@@ -1,0 +1,197 @@
+short_code,league,display_name,ID
+ND,NCAA D1 Men,Notre Dame,1
+RICH,NCAA D1 Men,Richmond,2
+MD,NCAA D1 Men,Maryland,3
+STJ,NCAA D1 Men,St. John's,4
+BU,NCAA D1 Men,Boston U,5
+RU,NCAA D1 Men,Rutgers,6
+HOF,NCAA D1 Men,Hofstra,7
+STNY,NCAA D1 Men,Stony Brook,8
+PC,NCAA D1 Men,Providence,9
+SAC,NCAA D1 Men,Sacred Heart,10
+UVA,NCAA D1 Men,Virginia,11
+AFA,NCAA D1 Men,Air Force,12
+DEL,NCAA D1 Men,Delaware,13
+PENN,NCAA D1 Men,Penn,14
+BRY,NCAA D1 Men,Bryant,15
+MARQ,NCAA D1 Men,Marquette,16
+CAN,NCAA D1 Men,Canisius,17
+LOY,NCAA D1 Men,Loyola,18
+VMI,NCAA D1 Men,VMI,19
+HC,NCAA D1 Men,Holy Cross,20
+NAVY,NCAA D1 Men,Navy,21
+NOVA,NCAA D1 Men,Villanova,22
+DREX,NCAA D1 Men,Drexel,23
+SJOE,NCAA D1 Men,Saint Joseph's,24
+LAF,NCAA D1 Men,Lafayette,25
+NJIT,NCAA D1 Men,NJIT,26
+DEN,NCAA D1 Men,Denver,27
+JHU,NCAA D1 Men,Johns Hopkins,28
+OSU,NCAA D1 Men,Ohio State,29
+PSU,NCAA D1 Men,Penn State,30
+MICH,NCAA D1 Men,Michigan,31
+HARV,NCAA D1 Men,Harvard,32
+ARMY,NCAA D1 Men,Army,33
+MAR,NCAA D1 Men,Marist,34
+UNC,NCAA D1 Men,North Carolina,35
+RMU,NCAA D1 Men,Robert Morris,36
+DUKE,NCAA D1 Men,Duke,37
+UVM,NCAA D1 Men,Vermont,38
+TOW,NCAA D1 Men,Towson,39
+HOB,NCAA D1 Men,Hobart,40
+PRIN,NCAA D1 Men,Princeton,41
+SYR,NCAA D1 Men,Syracuse,42
+BUCK,NCAA D1 Men,Bucknell,43
+FFL,NCAA D1 Men,Fairfield,44
+HPU,NCAA D1 Men,High Point,45
+LEH,NCAA D1 Men,Lehigh,46
+MAN,NCAA D1 Men,Manhattan,47
+MON,NCAA D1 Men,Monmouth,48
+ALB,NCAA D1 Men,Albany,49
+BING,NCAA D1 Men,Binghamton,50
+BRWN,NCAA D1 Men,Brown,51
+YALE,NCAA D1 Men,Yale,52
+BELL,NCAA D1 Men,Bellarmine,53
+COL,NCAA D1 Men,Colgate,54
+DART,NCAA D1 Men,Dartmouth,55
+MER,NCAA D1 Men,Mercer,56
+UML,NCAA D1 Men,UMass-Lowell,57
+UMBC,NCAA D1 Men,UMBC,58
+WAG,NCAA D1 Men,Wagner,59
+DET,NCAA D1 Men,Detroit,60
+FUR,NCAA D1 Men,Furman,61
+COR,NCAA D1 Men,Cornell,62
+QUI,NCAA D1 Men,Quinnipiac,63
+GTWN,NCAA D1 Men,Georgetown,64
+HFD,NCAA D1 Men,Hartford,65
+MASS,NCAA D1 Men,UMass,66
+CSU,NCAA D1 Men,Cleveland State,67
+JAV,NCAA D1 Men,Jacksonville,68
+MSM,NCAA D1 Men,Mount St Marys,69
+SIE,NCAA D1 Men,Siena,70
+HAM,NCAA D1 Men,Hampton,71
+UTAH,NCAA D1 Men,Utah,84
+STB,NCAA D1 Men,St. Bonaventure,85
+MRMK,NCAA D1 Men,Merrimack,86
+LIU,NCAA D1 Men,LIU,87
+FL,NCAA D1 Women,Florida,88
+UCONN,NCAA D1 Women,UConn,89
+ECU,NCAA D1 Women,East Carolina,90
+TEM,NCAA D1 Women,Temple,91
+VANDY,NCAA D1 Women,Vanderbilt,92
+CIN,NCAA D1 Women,Cincinnati,93
+UNC,NCAA D1 Women,North Carolina,94
+ND,NCAA D1 Women,Notre Dame,95
+SYR,NCAA D1 Women,Syracuse,96
+VT,NCAA D1 Women,Virginia Tech,97
+DUKE,NCAA D1 Women,Duke,98
+UVA,NCAA D1 Women,Virginia,99
+LOU,NCAA D1 Women,Louisville,100
+BC,NCAA D1 Women,Boston College,101
+STNY,NCAA D1 Women,Stony Brook,102
+UVM,NCAA D1 Women,Vermont,103
+ALB,NCAA D1 Women,Albany,104
+BING,NCAA D1 Women,Binghamton,105
+UMBC,NCAA D1 Women,UMBC,106
+UML,NCAA D1 Women,UMass Lowell,107
+UNH,NCAA D1 Women,New Hampshire,108
+HFD,NCAA D1 Women,Hartford,109
+JAV,NCAA D1 Women,Jacksonville,110
+LIB,NCAA D1 Women,Liberty,111
+KSU,NCAA D1 Women,Kennesaw State,112
+CCA,NCAA D1 Women,Coastal Carolina,113
+STET,NCAA D1 Women,Stetson,114
+HOW,NCAA D1 Women,Howard,115
+KENT,NCAA D1 Women,Kent State,116
+RICH,NCAA D1 Women,Richmond,117
+STB,NCAA D1 Women,St. Bonaventure,118
+UMASS,NCAA D1 Women,UMass,119
+GMU,NCAA D1 Women,George Mason,120
+SJOE,NCAA D1 Women,Saint Joseph's,121
+DUQ,NCAA D1 Women,Duquesne,122
+LAS,NCAA D1 Women,La Salle,123
+VCU,NCAA D1 Women,VCU,124
+DAV,NCAA D1 Women,Davidson,125
+GWU,NCAA D1 Women,George Washington,126
+DEN,NCAA D1 Women,Denver,127
+MARQ,NCAA D1 Women,Marquette,128
+BUT,NCAA D1 Women,Butler,129
+GTWN,NCAA D1 Women,Georgetown,130
+NOVA,NCAA D1 Women,Villanova,131
+ODU,NCAA D1 Women,Old Dominion,132
+WEBB,NCAA D1 Women,Gardner-Webb,133
+LWU,NCAA D1 Women,Longwood,134
+RAD,NCAA D1 Women,Radford,135
+PRES,NCAA D1 Women,Presbyterian,136
+CAMP,NCAA D1 Women,Campbell,137
+HPU,NCAA D1 Women,High Point,138
+WIN,NCAA D1 Women,Winthrop,139
+MICH,NCAA D1 Women,Michigan,140
+PSU,NCAA D1 Women,Penn State,141
+OSU,NCAA D1 Women,Ohio State,142
+RU,NCAA D1 Women,Rutgers,143
+JHU,NCAA D1 Women,Johns Hopkins,144
+NW,NCAA D1 Women,Northwestern,145
+MD,NCAA D1 Women,Maryland,146
+JMU,NCAA D1 Women,James Madison,147
+DREX,NCAA D1 Women,Drexel,148
+HOF,NCAA D1 Women,Hofstra,149
+ELON,NCAA D1 Women,Elon,150
+DEL,NCAA D1 Women,Delaware,151
+TOW,NCAA D1 Women,Towson,152
+WM,NCAA D1 Women,William and Mary,153
+AKR,NCAA D1 Women,Akron,154
+DART,NCAA D1 Women,Dartmouth,155
+PENN,NCAA D1 Women,Penn,156
+COR,NCAA D1 Women,Cornell,157
+YALE,NCAA D1 Women,Yale,158
+BRWN,NCAA D1 Women,Brown,159
+PRIN,NCAA D1 Women,Princeton,160
+HARV,NCAA D1 Women,Harvard,161
+COL,NCAA D1 Women,Columbia,162
+MON,NCAA D1 Women,Monmouth,163
+IONA,NCAA D1 Women,Iona,164
+MAN,NCAA D1 Women,Manhattan,165
+NIA,NCAA D1 Women,Niagara,166
+QUI,NCAA D1 Women,Quinnipiac,167
+SIE,NCAA D1 Women,Siena,168
+MAR,NCAA D1 Women,Marist,169
+FFL,NCAA D1 Women,Fairfield,170
+CAN,NCAA D1 Women,Canisius,171
+SDSU,NCAA D1 Women,San Diego State,172
+UCD,NCAA D1 Women,UC Davis,173
+FSU,NCAA D1 Women,Fresno State,174
+MSM,NCAA D1 Women,Mount St Mary's,175
+RMU,NCAA D1 Women,Robert Morris,176
+BRY,NCAA D1 Women,Bryant,177
+SFU,NCAA D1 Women,Saint Francis,178
+WAG,NCAA D1 Women,Wagner,179
+LIU,NCAA D1 Women,LIU,180
+SAC,NCAA D1 Women,Sacred Heart,181
+MRMK,NCAA D1 Women,Merrimack,182
+CCONN,NCAA D1 Women,Central Conn,183
+USC,NCAA D1 Women,USC,184
+ASU,NCAA D1 Women,Arizona State,185
+COLO,NCAA D1 Women,Colorado,186
+STAN,NCAA D1 Women,Stanford,187
+CAL,NCAA D1 Women,California,188
+ORE,NCAA D1 Women,Oregon,189
+AMU,NCAA D1 Women,American,190
+ARMY,NCAA D1 Women,Army,191
+LEH,NCAA D1 Women,Lehigh,192
+LOY,NCAA D1 Women,Loyola,193
+HC,NCAA D1 Women,Holy Cross,194
+LAF,NCAA D1 Women,Lafayette,195
+BU,NCAA D1 Women,Boston U,196
+COL,NCAA D1 Women,Colgate,197
+BUCK,NCAA D1 Women,Bucknell,198
+NAVY,NCAA D1 Women,Navy,199
+MER,NCAA D1 Women,Mercer,200
+FUR,NCAA D1 Women,Furman,201
+CMU,NCAA D1 Women,Central Michigan,202
+DSU,NCAA D1 Women,Delaware State,203
+UDM,NCAA D1 Women,Detroit Mercy,204
+WOF,NCAA D1 Women,Wofford,205
+SMC,NCAA D1 Women,Saint Mary's (CA),934
+YOUNG,NCAA D1 Women,Youngstown State,935
+PITT,NCAA D1 Women,Pittsburgh,944

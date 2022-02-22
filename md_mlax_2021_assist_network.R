@@ -15,6 +15,11 @@ games_data <- read.csv("data/md_games_data_2021.csv") %>%
      rename(game_id = id)
 raw_assist_data <- read.csv("data/md_assist_data_2021.csv") %>% 
      clean_names()
+
+teams_data <- read.csv("data/data_teams.csv") %>% 
+        clean_names() %>% 
+        rename(team_id = id)
+
 #clean up assist data
 assist_data <- raw_assist_data %>% 
      left_join(., player_data, by = c("shooter_id" = "player_id")) %>% #add shooter name
