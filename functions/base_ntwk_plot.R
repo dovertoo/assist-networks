@@ -12,9 +12,10 @@ base_ntwk_plot <- function(ntwk, edge_clr, node_clr){
                         start_cap = circle(2, 'mm'),
                         end_cap = circle(4, 'mm'),
                         strength = 0.15,
+                        color = edge_clr,
                         aes(label = assister_shooter_freq_label,
-                            edge_width = assister_shooter_freq,
-                            edge_color = edge_clr),
+                            edge_width = assister_shooter_freq),
+                            #edge_color = edge_clr),
                         show.legend = FALSE) +
           geom_node_point(aes(size = num_assists + 50),
                           shape = 21, fill = node_clr,
