@@ -12,7 +12,8 @@ clean_assist_data <- function(asst_data, plyr_data, gms_data){
           rename(shooter = player) %>% 
           left_join(., plyr_data, by = c("assister_id" = "player_id")) %>% #add assister name
           rename(assister = player) %>% 
-          left_join(., gms_data, by = "game_id")
+          left_join(., gms_data, by = "game_id") %>% 
+          distinct()
      
      return(assist_data)
      

@@ -1,17 +1,17 @@
-#get_network_nodes(asst_data)
+#get_network_nodes(ntwk_data)
 
 
 library(janitor)
 library(tidyverse)
 
-get_network_nodes <- function(asst_data){
+get_network_nodes <- function(ntwk_data){
      
-     cnt_assists <- asst_data %>% 
+     cnt_assists <- ntwk_data %>% 
           select(assister) %>% 
           count(assister) %>% 
           rename(num_assists = n)
      
-     ntwk_nodes <- asst_data %>% 
+     ntwk_nodes <- ntwk_data %>% 
           select(assister, shooter) %>% #need to have all shooters/assisters listed as vertices
           pivot_longer(everything(), values_to = "assister_shooter") %>% 
           select(-name) %>% 
